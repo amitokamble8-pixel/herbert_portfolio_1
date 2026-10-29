@@ -22,7 +22,7 @@ export const PROFILE = {
     linkedin: "",
     twitter: "",
   },
-  cv: "placeholder.pdf",  // ⚠️ Not provided in portfolio content
+  cv: "",  // ⚠️ Not provided in portfolio content
   photo: "placeholder.jpg",        // ⚠️ Not provided in portfolio content
   aboutPhoto: "placeholder.jpg",   // ⚠️ Not provided in portfolio content
 };
