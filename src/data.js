@@ -23,8 +23,8 @@ export const PROFILE = {
     twitter: "",
   },
   cv: "",  // ⚠️ Not provided in portfolio content
-  photo: "placeholder.jpg",        // ⚠️ Not provided in portfolio content
-  aboutPhoto: "placeholder.jpg",   // ⚠️ Not provided in portfolio content
+  photo: "",        // ⚠️ Not provided in portfolio content
+  aboutPhoto: "",   // ⚠️ Not provided in portfolio content
 };
 
 export const NAV = [
